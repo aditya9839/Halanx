@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">Halanx</string>
+
+    <string name="name_of_doctor">NAME OF DOCTOR</string>
+    <string name="time_of_work">Sun-Sat(10 AM - 5 PM)</string>
+    <string name="doctor_location">Chaitra Vihar,Delhi</string>
+    <string name="rate">65%(170)</string>
+    <string name="degree_of_doctor">MDS</string>
+    <string name="doctor_specialtization">Dentist</string>
+    <string name="login_button_text">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="x">X</string>
+    <string name="login">Login</string>
+
+    <string name="dp">dp</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="get_directions">Get Directions</string>
+    <string name="open_in_google_maps">Open in Google Maps</string>
+    <string name="doctor_descrip">This will be the description of the house </string>
+    <string name="facilities">Facilities provided by owner</string>
+    <string name="facility_1">Facility 1</string>
+    <string name="facility_2">Facility 2</string>
+    <string name="facility_3">Facility 3</string>
+    <string name="facility_4">Facility 4</string>
+    <string name="facility_5">Facility 5</string>
+    <string name="facility_6">Facility 6</string>
+    <string name="facility_7">Facility 7</string>
+    <string name="facility_8">Facility 8</string>
+    <string name="facility_9">Facility 9</string>
+    <string name="expert_reviews">Expert Reviews</string>
+    <string name="_4_5_stars">4.5 Stars</string>
+    <string name="location">Location of house is marked by marker</string>
+    <string name="or_continue_with_email">CONTINUE WITH EMAIL</string>
+    <string name="sa">sa</string>
+    <string name="title_activity_house_details">HouseDetails</string>
+</resources>
+
